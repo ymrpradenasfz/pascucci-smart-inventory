@@ -1,11 +1,11 @@
 {
   "smtp_host": "smtp.gmail.com",
   "smtp_port": 587,
-  "username": "tu_correo@gmail.com",
-  "password": "AQUI_TU_TOKEN_APP",
+  "username": "demo@example.com",
+  "password": "APP_PASSWORD_HERE",
   "to_emails": [
-    "dueno@pascucci.cl",
-    "finanzas@pascucci.cl"
+    "ejemplo1@empresa.cl",
+    "ejemplo2@empresa.cl"
   ],
   "scheduler_enabled": false
 }
