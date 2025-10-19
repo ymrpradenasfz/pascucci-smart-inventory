@@ -1,0 +1,11 @@
+{
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "username": "tu_correo@gmail.com",
+  "password": "AQUI_TU_TOKEN_APP",
+  "to_emails": [
+    "dueno@pascucci.cl",
+    "finanzas@pascucci.cl"
+  ],
+  "scheduler_enabled": false
+}
